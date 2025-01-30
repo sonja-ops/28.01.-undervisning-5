@@ -2,6 +2,15 @@ body{
   font-family: "Playwrite IN", serif;
 }
 
+h1{
+  font-size: medium;
+}
+
+p{
+  font-size: x-small;
+  padding: 5px;
+}
+
 .spacing{
   height: 100px;
   width: 100px;
